@@ -22,7 +22,7 @@
 
 9) Which technical areas are you interested in ?
 
-10) Which tools / apps do you use when debugging apps (you can list anything that makes your life easier)
+10) Which tools / apps do you use when testing apps (you can list anything that makes your life easier)
 
 11) How do you deal with regression testing ? (this question is vague on purpose)
 
