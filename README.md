@@ -40,7 +40,7 @@
 
 18) How would you solve the problems / challenges from the previous question ?
 
-19) Assuming that you suddenly need to decide between 5 major features / project in terms of what should be a priority for QA and there is no one to ask for a priority list, how would you chose a single feature / project to test over the next few days and based on what ? (describe you logic behind it)
+19) Assuming that you suddenly need to decide between 5 major features / project in terms of what should be a priority for QA and there is no one to ask for a priority list, how would you chose a single feature / project to test over the next few days and based on what ? (describe your logic behind it)
 
 20) What else would you like to tell me ? :)
 
